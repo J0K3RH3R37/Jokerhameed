@@ -1,0 +1,5 @@
+git clone https://github.com/J0K3RH3R37/joker.py
+
+cd joker.py
+
+python joker.py
